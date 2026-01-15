@@ -30,5 +30,10 @@
                 >https://github.com/United-People-of-Earth/.github</a
             >
         </DtDd>
+        <DtDd dtText="Privacy Policy" open>
+            <a href="https://unitedpeople.wiki/privacy-policy.html"
+                >https://unitedpeople.wiki/privacy-policy.html</a
+            >
+        </DtDd>
     </dl>
 </details>
