@@ -1,1 +1,13 @@
-🚧
+---
+title: A Better World 
+subtitle: AI Is The Key 
+---
+
+# {title}
+## {subtitle}
+
+---
+
+# Abstract
+
+These are the specifications for a better world. 
