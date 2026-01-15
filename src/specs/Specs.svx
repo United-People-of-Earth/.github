@@ -1,14 +1,13 @@
 ---
 title: A Better World 
-subtitle: AI Is The Key 
 ---
 
 <script>
     import Settings from '../settings/Settings.svelte'
+    import Toc from './Toc.svelte'
 </script>
 
 # {title}
-## {subtitle}
 
 <Settings />
 
@@ -16,4 +15,8 @@ subtitle: AI Is The Key
 
 # Abstract
 
-These are the specifications for a better world. 
+These are the specifications for a better world.
+
+<Toc />
+
+
