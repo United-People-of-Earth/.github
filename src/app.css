@@ -103,7 +103,8 @@ h5,
 h6,
 p,
 hr,
-details {
+details,
+nav {
     max-width: var(--content-maxWidth);
     margin-left: auto;
     margin-right: auto;
