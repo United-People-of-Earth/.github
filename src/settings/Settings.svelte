@@ -20,5 +20,10 @@
         <DtDd dtText="Domain Name" open>
             <a href="https://unitedpeople.wiki">https://unitedpeople.wiki</a>
         </DtDd>
+        <DtDd dtText="Discussions" open>
+            <a href="https://github.com/orgs/United-People-of-Earth/discussions"
+                >https://github.com/orgs/United-People-of-Earth/discussions</a
+            >
+        </DtDd>
     </dl>
 </details>
