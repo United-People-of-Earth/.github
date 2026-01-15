@@ -25,5 +25,10 @@
                 >https://github.com/orgs/United-People-of-Earth/discussions</a
             >
         </DtDd>
+        <DtDd dtText="Source Code" open>
+            <a href="https://github.com/United-People-of-Earth/.github"
+                >https://github.com/United-People-of-Earth/.github</a
+            >
+        </DtDd>
     </dl>
 </details>
