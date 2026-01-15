@@ -3,8 +3,14 @@ title: A Better World
 subtitle: AI Is The Key 
 ---
 
+<script>
+    import Settings from '../settings/Settings.svelte'
+</script>
+
 # {title}
 ## {subtitle}
+
+<Settings />
 
 ---
 
