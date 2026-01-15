@@ -41,7 +41,7 @@
 
 <style>
     label {
-        cursor: pointer;
+       cursor: text;
     }
     input[type="checkbox"] {
         display: none;
