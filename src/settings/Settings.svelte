@@ -1,4 +1,6 @@
 <script>
+    import DtDd from "./DtDd.svelte";
+
     const defaultOpen = true;
 
     let open = $derived.by(() => {
@@ -15,6 +17,8 @@
 <details bind:open>
     <summary>Settings</summary>
     <dl>
-        
+        <DtDd dtText="Domain Name" open>
+            <a href="https://unitedpeople.wiki">https://unitedpeople.wiki</a>
+        </DtDd>
     </dl>
 </details>
