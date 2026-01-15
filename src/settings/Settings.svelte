@@ -1,5 +1,6 @@
 <script>
     import DtDd from "./DtDd.svelte";
+    import Theme from "./theme/Theme.svelte";
 
     const defaultOpen = true;
 
@@ -34,6 +35,9 @@
             <a href="https://unitedpeople.wiki/privacy-policy.html"
                 >https://unitedpeople.wiki/privacy-policy.html</a
             >
+        </DtDd>
+        <DtDd dtText="Theme">
+            <Theme />
         </DtDd>
     </dl>
 </details>
